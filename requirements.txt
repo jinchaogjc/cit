@@ -1,0 +1,11 @@
+# conda create -n css python=3.10
+ftfy
+regex
+einops
+timm
+mmdet==3.2.0
+torch==2.0.0
+torchvision==0.15.1
+mmengine==0.9.0
+mmsegmentation==1.2.1
+mmcv==2.0.1
